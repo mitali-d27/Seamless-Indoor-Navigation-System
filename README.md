@@ -70,22 +70,6 @@ Receive clear, audible feedback and instructions.(react -use -clipboard,react sp
 
 ![image](![WhatsApp Image 2024-02-04 at 10 58 32 AM](https://github.com/shadwar123/Nit_B_hack/assets/110903269/cfab50eb-01dc-4638-9d25-a220e860a2df)
 
-
-
-## Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/shadwar-nayyar-492422226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://avatars.githubusercontent.com/u/121336930?v=4" width="100px;" alt=""/><br /><sub><b>Shadwar Nayarl</b></sub></a><br /> </td>
-    <td align="center"><a href="https://www.linkedin.com/in/akshit-farkya-825521224"><img src="https://avatars.githubusercontent.com/u/142992492?v=4" width="100px;" alt=""/><br /><sub><b>Akshit Farkya</b></sub></a><br /> </td>
-    <td align="center"><a href="https://www.linkedin.com/in/abhishek-gupta-57568b228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://avatars.githubusercontent.com/u/110448627?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Gupta</b></sub></a><br /> </td>
-    <td align="center"><a href="https://www.linkedin.com/in/mitali-deshmukh-459457227/"><img src="https://avatars.githubusercontent.com/u/110903269?s=400&u=fe11a9f387a70ced40f9887239dccc49f9b78244&v=4" width="100px;" alt=""/><br /><sub><b>Mitali Deshmukh</b></sub></a><br /> </td>
-  </tr>
-</table>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -
